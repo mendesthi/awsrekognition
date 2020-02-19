@@ -1,0 +1,2 @@
+# awsrekognition
+Amazon Rekognition API
